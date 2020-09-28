@@ -7,6 +7,8 @@ I am a 22 year old student at the University of Thessaly, Greece. Candidate for 
   <img src="https://github-readme-stats.vercel.app/api?username=johneliades&show_icons=true&hide_border=true&theme=tokyonight" />
 <\a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johneliades)](https://github.com/anuraghazra/github-readme-stats)
+
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
