@@ -1,18 +1,8 @@
-<!--
-**johneliades/johneliades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a 22 year old student at the University of Thessaly, Greece. Candidate for a Master of Engineering on Electrical and Computer Engineering. My interests revolve around Software Engineering, Network Engineering, Web Engineering and Computer/Information security. 
 
-<a href="https://github.com/estamos/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=johneliades&show_icons=true&hide_border=true&theme=tokyonight" />
-<\a>
+<img src="https://github-readme-stats.vercel.app/api?username=johneliades&show_icons=true&hide_border=true&theme=tokyonight" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johneliades)](https://github.com/anuraghazra/github-readme-stats)
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+<!--
+**johneliades/johneliades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
