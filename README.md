@@ -1,4 +1,4 @@
-I am a 22 year old student at the University of Thessaly, Greece. Candidate for a Master of Engineering on Electrical and Computer Engineering. My interests revolve around anything software, network or security related. I've been teaching programming part-time for the past 3 years, and I'm now in search for an interesting diploma thesis.
+I am a 23 year old student at the University of Thessaly, Greece. Candidate for a Master of Engineering on Electrical and Computer Engineering. My interests revolve around anything software, network or security related. I've been teaching programming part-time for the past 3 years, and I'm currently working on my diploma thesis, a torrent client in golang.
 
 <a href="https://github.com/johneliades/johneliades">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=johneliades&show_icons=true&hide_border=true&theme=tokyonight&line_height=27" />
