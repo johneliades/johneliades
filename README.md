@@ -1,4 +1,4 @@
-I am a 23 year old student at the University of Thessaly, Greece. Candidate for a Master of Engineering on Electrical and Computer Engineering. My interests revolve around anything software, network or security related. I've been teaching programming part-time for the past 3 years, and I'm currently working on my diploma thesis, a torrent client in golang.
+My name is John Eliades, I have a Master's degree in Electrical and Computer Engineering and I'm working towards gaining experience as a professional in this field. I have taught unruly undergraduate students how to code for 3 years and have worked as a network administrator for the army for 7 months, while fulfilling my military obligations. My interests and expertise are in software, networks, and security.
 
 <a href="https://github.com/johneliades/johneliades">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=johneliades&show_icons=true&hide_border=true&theme=tokyonight&line_height=27" />
