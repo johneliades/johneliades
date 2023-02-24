@@ -8,5 +8,12 @@ My name is John Eliades, I have a Master's degree in Electrical and Computer Eng
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johneliades&theme=tokyonight&langs_count=3&layout=c" />
 </a>
 
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/johneliades/count.svg" />
+</p>
+
 <!--
 **johneliades/johneliades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
