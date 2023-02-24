@@ -8,7 +8,7 @@ My name is John Eliades, I have a Master's degree in Electrical and Computer Eng
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johneliades&theme=tokyonight&langs_count=3&layout=c" />
 </a>
 
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="contribution.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
