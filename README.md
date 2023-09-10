@@ -5,7 +5,7 @@ My name is John Eliades, I have a Master's degree in Electrical and Computer Eng
 </a>
 
 <a href="https://github.com/johneliades/johneliades">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johneliades&theme=tokyonight&langs_count=3&layout=c" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johneliades&theme=tokyonight&langs_count=3" />
 </a>
 
 <a href=#><img src="contribution.svg"></a>
