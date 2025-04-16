@@ -10,10 +10,5 @@ Hi there! My name is John Eliades, I am a graduate with a Master's degree in ele
 
 <a href=#><img src="contribution.svg"></a>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/johneliades/count.svg" />
-</p>
-
 <!--
 **johneliades/johneliades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
